@@ -1,0 +1,5 @@
+PyMuPDF
+pandas
+sentence-transformers
+torch
+numpy
