@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "input_documents": [
+            "dummy_report_A.pdf",
+            "dummy_report_B.pdf"
+        ],
+        "persona": "Investment Analyst",
+        "job_to_be_done": "Analyze revenue trends and R&D investments.",
+        "processing_timestamp": "2025-07-27T20:21:05.563642",
+        "document_details_from_r1a": [
+            {
+                "document_name": "dummy_report_A.pdf",
+                "document_title_from_r1a": "Dummy Company Annual Report 2023",
+                "outline_from_r1a": [
+                    {
+                        "level": "H1",
+                        "text": "1. Introduction to Our Performance",
+                        "page": 1
+                    },
+                    {
+                        "level": "H1",
+                        "text": "2. Research and Development",
+                        "page": 1
+                    }
+                ]
+            },
+            {
+                "document_name": "dummy_report_B.pdf",
+                "document_title_from_r1a": "Competitor Insights Report 2023",
+                "outline_from_r1a": [
+                    {
+                        "level": "H1",
+                        "text": "Chapter 1: Market Overview",
+                        "page": 1
+                    },
+                    {
+                        "level": "H1",
+                        "text": "Chapter 2: Competitive Positioning",
+                        "page": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "extracted_sections": [
+        {
+            "document": "dummy_report_B.pdf",
+            "page_number": 1,
+            "section_title": "Chapter 1: Market Overview",
+            "importance_rank": 1
+        },
+        {
+            "document": "dummy_report_A.pdf",
+            "page_number": 1,
+            "section_title": "1. Introduction to Our Performance",
+            "importance_rank": 2
+        },
+        {
+            "document": "dummy_report_A.pdf",
+            "page_number": 1,
+            "section_title": "2. Research and Development",
+            "importance_rank": 3
+        },
+        {
+            "document": "dummy_report_B.pdf",
+            "page_number": 1,
+            "section_title": "Chapter 2: Competitive Positioning",
+            "importance_rank": 4
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "dummy_report_B.pdf",
+            "refined_text": "An analysis of the overall market trends. Competitor B showed moderate revenue growth but reduced R",
+            "page_number": 1
+        },
+        {
+            "document": "dummy_report_A.pdf",
+            "refined_text": "This report provides an overview of our financial performance. We saw significant revenue growth this y 1.1. Financial Highlights",
+            "page_number": 1
+        },
+        {
+            "document": "dummy_report_A.pdf",
+            "refined_text": "Our commitment to innovation is reflected in our substantial R&D investments. We funded several brea",
+            "page_number": 1
+        },
+        {
+            "document": "dummy_report_B.pdf",
+            "refined_text": "Evaluating different market positioning strategies. Competitor C focused on aggressive marketing.",
+            "page_number": 1
+        }
+    ]
+}

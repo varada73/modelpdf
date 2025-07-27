@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-27T20:45:25.629599"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "page_number": 2,
+            "section_title": "Send a document to get signatures from others",
+            "importance_rank": 1
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "page_number": 14,
+            "section_title": "9. Prepare the Agreement and Add Fields:",
+            "importance_rank": 2
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 12,
+            "section_title": "Request access in Acrobat",
+            "importance_rank": 3
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 18,
+            "section_title": "License deployment",
+            "importance_rank": 4
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 11,
+            "section_title": "Add verification information at signing",
+            "importance_rank": 5
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "page_number": 8,
+            "section_title": "Signer's experience",
+            "importance_rank": 6
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 1,
+            "section_title": "Adobe LiveCycle Rights Management (ALCRM) servers",
+            "importance_rank": 7
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "page_number": 28,
+            "section_title": "1. Open the Preferences dialog box.",
+            "importance_rank": 8
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "page_number": 15,
+            "section_title": "Prerequisites",
+            "importance_rank": 9
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 8,
+            "section_title": "Fill in PDF Forms",
+            "importance_rank": 10
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 3,
+            "section_title": "Note:",
+            "importance_rank": 11
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "page_number": 10,
+            "section_title": "Note:",
+            "importance_rank": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "page_number": 5,
+            "section_title": "To fill radio option fields:",
+            "importance_rank": 13
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "page_number": 8,
+            "section_title": "Validate all digital signatures",
+            "importance_rank": 14
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Certify options provide a higher level of document control than Digitally sign. For documents that require certification, you must certify the documents before others sign them. If a document has already been signed, the Certify options are disabled. When you certify a document, you can control the types of changes other people can make. You can certify with or without displaying a signature. For details on the full range of configuration options in enterprise settings, see the Digital Signatures Guide. 3. From the Appearance menu in the Sign dialog box, select Create New Appearance.",
+            "page_number": 25
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs",
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "refined_text": "1. Launch Acrobat and sign in as an administrator. 5. Once your purchase is complete, you can assign licenses to users from the Add users to this product page. Your team members receive an email notification when the product is provisioned to their account. They can select the link to launch Acrobat to access AI Assistant for Acrobat.",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "refined_text": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users. You can choose to either select the users to assign or create product profiles and assign users to the profiles. For more information, see Packaging apps via the Admin Console. Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant.",
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "then right-click the signature in the PDF. 2. Select Add Verification Information. Information and methods used to include this long-term validation (LTV) information in the PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard.",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "8. Click Next in the upper right corner of the window. The document is now ready to add any fields that you want the signers to fill in or sign. You can now add any necessary fields to the agreement. Remember that a Signature field must be placed for each signer (including internal counter-singers).",
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "then right-click the signature in the PDF. 2. Select Add Verification Information. Information and methods used to include this long-term validation (LTV) information in the PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard.",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "2. Under Categories, select Identity. 3. Enter your name, organization, and email address to create your profile. 4. Under Categories, select Signatures.",
+            "page_number": 28
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "2. To provide detailed feedback, select Tell us more. 3. Choose from the options, or provide details in the text box. Then select Submit. When you provide feedback, you have the option to share your document, prompts, and generated responses during a document session for product improvement purposes. If you don't wish to share your content, uncheck the product improvement checkbox when you provide feedback for the first time on a document.",
+            "page_number": 20
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "signature or initial. • Type: Type your name in the field. You can choose from a small selection of signature styles; click Change Style to view a different style.",
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "• Transfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG, GIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader imports just the signature if the photo or scan is fairly clean. Fill in interactive forms An interactive form contains fields that you can select or fill in.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "refined_text": "If your request is denied, you'll receive an email explaining why. Once declined, you can re- request AI Assistant for Acrobat from your organization. Administer AI Assistant for enterprises Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, mobile, and desktop platforms. It provides centralized license management and enterprise- level technical support for adequate user support at scale.",
+            "page_number": 16
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "• Transfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG, GIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader imports just the signature if the photo or scan is fairly clean. Is the form fillable? Not all forms are fillable. Sometimes form creators don’t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. These non-interactive forms are called flat forms.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "then right-click the signature in the PDF. 2. Select Add Verification Information. Information and methods used to include this long-term validation (LTV) information in the PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard.",
+            "page_number": 11
+        }
+    ]
+}

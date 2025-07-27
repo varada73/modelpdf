@@ -1,5 +1,11 @@
 PyMuPDF
 pandas
-sentence-transformers
-torch
 numpy
+joblib
+torch
+sentence-transformers
+transformers
+scikit-learn
+nltk
+lightgbm
+pyarrow

@@ -1,0 +1,529 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T19:00:10.691109",
+        "document_details_from_r1a": [
+            {
+                "document_name": "Breakfast Ideas.pdf",
+                "document_title_from_r1a": "",
+                "outline_from_r1a": [
+                    {
+                        "level": "H3",
+                        "text": "Pancakes Ingredients:",
+                        "page": 2
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Breakfast Sandwich Ingredients:",
+                        "page": 5
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Granola Bars Ingredients:",
+                        "page": 7
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Instructions:",
+                        "page": 8
+                    },
+                    {
+                        "level": "H3",
+                        "text": "• Salt and pepper to taste Instructions:",
+                        "page": 9
+                    }
+                ]
+            },
+            {
+                "document_name": "Dinner Ideas - Mains_1.pdf",
+                "document_title_from_r1a": "",
+                "outline_from_r1a": [
+                    {
+                        "level": "H3",
+                        "text": "Beef Stroganoff Ingredients:",
+                        "page": 2
+                    },
+                    {
+                        "level": "H3",
+                        "text": " Sliced green onions for garnish Instructions:",
+                        "page": 4
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Instructions:",
+                        "page": 9
+                    },
+                    {
+                        "level": "H3",
+                        "text": "General Tso's Chicken Ingredients:",
+                        "page": 11
+                    }
+                ]
+            },
+            {
+                "document_name": "Dinner Ideas - Mains_2.pdf",
+                "document_title_from_r1a": "Roast Chicken Ingredients:",
+                "outline_from_r1a": [
+                    {
+                        "level": "H2",
+                        "text": "Ingredients:",
+                        "page": 10
+                    }
+                ]
+            },
+            {
+                "document_name": "Dinner Ideas - Mains_3.pdf",
+                "document_title_from_r1a": "Peking Duck Ingredients:",
+                "outline_from_r1a": [
+                    {
+                        "level": "H3",
+                        "text": "Quiche Lorraine Ingredients:",
+                        "page": 2
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Roast Beef Ingredients:",
+                        "page": 3
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Baked Ziti Ingredients:",
+                        "page": 4
+                    }
+                ]
+            },
+            {
+                "document_name": "Dinner Ideas - Sides_1.pdf",
+                "document_title_from_r1a": "",
+                "outline_from_r1a": [
+                    {
+                        "level": "H2",
+                        "text": "Acarajé",
+                        "page": 2,
+                        "children": [
+                            {
+                                "level": "H3",
+                                "text": " Instructions:",
+                                "page": 4
+                            },
+                            {
+                                "level": "H3",
+                                "text": " Instructions:",
+                                "page": 14
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "document_name": "Dinner Ideas - Sides_2.pdf",
+                "document_title_from_r1a": "Churros",
+                "outline_from_r1a": [
+                    {
+                        "level": "H2",
+                        "text": "Cornbread",
+                        "page": 2,
+                        "children": [
+                            {
+                                "level": "H3",
+                                "text": "o 2 tablespoons butter  Instructions:",
+                                "page": 3
+                            }
+                        ]
+                    },
+                    {
+                        "level": "H2",
+                        "text": "Egg Rolls",
+                        "page": 6,
+                        "children": [
+                            {
+                                "level": "H3",
+                                "text": "o Drain on paper towels and serve.  Farofa",
+                                "page": 8
+                            },
+                            {
+                                "level": "H3",
+                                "text": " Instructions:",
+                                "page": 9
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "document_name": "Dinner Ideas - Sides_3.pdf",
+                "document_title_from_r1a": "turmeric, and salt. o Simmer for 30 minutes until lentils are tender. o Stir in chopped cilantro and serve warm.  Horta",
+                "outline_from_r1a": [
+                    {
+                        "level": "H2",
+                        "text": "Hummus",
+                        "page": 2
+                    },
+                    {
+                        "level": "H2",
+                        "text": "Kachumbari",
+                        "page": 4,
+                        "children": [
+                            {
+                                "level": "H3",
+                                "text": " Instructions:",
+                                "page": 5
+                            }
+                        ]
+                    },
+                    {
+                        "level": "H2",
+                        "text": "Kimchi",
+                        "page": 6
+                    },
+                    {
+                        "level": "H2",
+                        "text": "Larb",
+                        "page": 7
+                    },
+                    {
+                        "level": "H2",
+                        "text": "Mandazi",
+                        "page": 9
+                    },
+                    {
+                        "level": "H2",
+                        "text": "Msemen",
+                        "page": 12
+                    }
+                ]
+            },
+            {
+                "document_name": "Dinner Ideas - Sides_4.pdf",
+                "document_title_from_r1a": " Ingredients:",
+                "outline_from_r1a": []
+            },
+            {
+                "document_name": "Lunch Ideas.pdf",
+                "document_title_from_r1a": "",
+                "outline_from_r1a": [
+                    {
+                        "level": "H3",
+                        "text": "Chicken Caesar Wrap Ingredients:",
+                        "page": 2
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Greek Yogurt Parfait Ingredients:",
+                        "page": 3
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Chicken and Veggie Stir-Fry Ingredients:",
+                        "page": 7
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Chickpea and Avocado Sandwich Ingredients:",
+                        "page": 9
+                    },
+                    {
+                        "level": "H3",
+                        "text": "BBQ Chicken Wrap Ingredients:",
+                        "page": 12
+                    },
+                    {
+                        "level": "H3",
+                        "text": "Chicken and Avocado Wrap Ingredients:",
+                        "page": 15
+                    }
+                ]
+            }
+        ]
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 4,
+            "section_title": " Sliced green onions for garnish Instructions:",
+            "importance_rank": 1
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 5,
+            "section_title": "Breakfast Sandwich Ingredients:",
+            "importance_rank": 2
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 15,
+            "section_title": "Chicken and Avocado Wrap Ingredients:",
+            "importance_rank": 3
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Chicken Caesar Wrap Ingredients:",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 9,
+            "section_title": " Instructions:",
+            "importance_rank": 5
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 9,
+            "section_title": "• Salt and pepper to taste Instructions:",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 5,
+            "section_title": " Instructions:",
+            "importance_rank": 7
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 9,
+            "section_title": "Chickpea and Avocado Sandwich Ingredients:",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 11,
+            "section_title": "General Tso's Chicken Ingredients:",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 4,
+            "section_title": "Baked Ziti Ingredients:",
+            "importance_rank": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 14,
+            "section_title": " Instructions:",
+            "importance_rank": 11
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 12,
+            "section_title": "Msemen",
+            "importance_rank": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 3,
+            "section_title": "o 2 tablespoons butter  Instructions:",
+            "importance_rank": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "page_number": 10,
+            "section_title": "Ingredients:",
+            "importance_rank": 14
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Pancakes Ingredients:",
+            "importance_rank": 15
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Granola Bars Ingredients:",
+            "importance_rank": 16
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "page_number": 8,
+            "section_title": "Instructions:",
+            "importance_rank": 17
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 2,
+            "section_title": "Beef Stroganoff Ingredients:",
+            "importance_rank": 18
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 9,
+            "section_title": "Instructions:",
+            "importance_rank": 19
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 2,
+            "section_title": "Quiche Lorraine Ingredients:",
+            "importance_rank": 20
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "page_number": 3,
+            "section_title": "Roast Beef Ingredients:",
+            "importance_rank": 21
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 2,
+            "section_title": "Acarajé",
+            "importance_rank": 22
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 4,
+            "section_title": " Instructions:",
+            "importance_rank": 23
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 2,
+            "section_title": "Cornbread",
+            "importance_rank": 24
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 6,
+            "section_title": "Egg Rolls",
+            "importance_rank": 25
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 8,
+            "section_title": "o Drain on paper towels and serve.  Farofa",
+            "importance_rank": 26
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 2,
+            "section_title": "Hummus",
+            "importance_rank": 27
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 4,
+            "section_title": "Kachumbari",
+            "importance_rank": 28
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 6,
+            "section_title": "Kimchi",
+            "importance_rank": 29
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 7,
+            "section_title": "Larb",
+            "importance_rank": 30
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 9,
+            "section_title": "Mandazi",
+            "importance_rank": 31
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 3,
+            "section_title": "Greek Yogurt Parfait Ingredients:",
+            "importance_rank": 32
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 7,
+            "section_title": "Chicken and Veggie Stir-Fry Ingredients:",
+            "importance_rank": 33
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 12,
+            "section_title": "BBQ Chicken Wrap Ingredients:",
+            "importance_rank": 34
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": " Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions:  2 cloves garlic, minced  Salt and pepper to taste  Chopped parsley for garnish Instructions:  8 ounces rice noodles  1/2 pound shrimp or chicken  2 eggs  1 cup bean sprouts  1/4 cup peanuts, chopped  2 tablespoons fish sauce  2 tablespoons tamarind paste  1 tablespoon sugar  1 tablespoon lime juice  1/4 cup green onions, chopped  2 tablespoons vegetable oil Instructions:  Bring to a simmer, then cover and transfer to the oven.",
+            "page_number": 5
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "• Serve with salsa.",
+            "page_number": 6
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "• Add the turkey, carrots, and spinach.",
+            "page_number": 15
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "• Add the turkey, spinach, and carrots.",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o Mix vegetables with olives and crumbled feta cheese.",
+            "page_number": 14
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Cottage Cheese and Veggie Bowl Ingredients: • 1 cup cottage cheese • 1/4 cup diced cucumber • 1/4 cup cherry tomatoes, halved • 1/4 cup diced bell pepper • Salt and pepper to taste Instructions: • In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.",
+            "page_number": 16
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Toss shredded papaya, carrots, peanuts, and cilantro with the dressing.",
+            "page_number": 13
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "• Add the turkey, spinach, and carrots.",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": " In a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, milk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper.",
+            "page_number": 14
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "Gnocchi with Sage Butter Ingredients:  1 pound potato gnocchi  1/4 cup butter  2 cloves garlic, minced  8 fresh sage leaves  1/2 cup grated Parmesan cheese  Salt and pepper to taste Instructions: Honey Garlic Pork Ribs Ingredients:  2 pounds pork ribs  1/4 cup honey  1/4 cup soy sauce  2 tablespoons rice vinegar  3 cloves garlic, minced  1 teaspoon grated ginger  1 teaspoon paprika  Salt and pepper to taste  Sliced green onions for garnish Instructions:  Preheat oven to 300°F (150°C).",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Place chicken, shrimp, and mushrooms in small bowls.",
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Toss shredded papaya, carrots, peanuts, and cilantro with the dressing.",
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": " Ingredients: o 2 cups cassava flour o 1/4 cup butter o 1 small onion o 2 cloves garlic o 1/4 cup bacon o 1/4 cup parsley o 1 teaspoon salt  Instructions: o Sauté diced bacon, onion, and minced garlic in butter until crispy.",
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": " Add diced onion, minced garlic, sliced mushrooms, and carrots, sauté until softened.",
+            "page_number": 10
+        }
+    ]
+}
