@@ -25,9 +25,9 @@ MODEL_DIR = "." # Assuming models are in the same directory as the script
 MODEL_FILE = os.path.join(MODEL_DIR, "lgbm_classifier.joblib")
 FEATURES_FILE = os.path.join(MODEL_DIR, "lgbm_features.json")
 LABEL_MAP_FILE = os.path.join(MODEL_DIR, "label_map.json")
-INPUT_DIR = "sample_input2" # Directory for input PDFs and the input JSON
-OUTPUT_DIR = "output_results41" # Directory for the output JSON
-BERT_CHECKPOINT = "my_finetuned_minilm_model" # Keep the existing BERT model
+INPUT_DIR = "/app/input" # Directory for input PDFs and the input JSON
+OUTPUT_DIR = "/app/output" # Directory for the output JSON
+BERT_CHECKPOINT = "/app/my_finetuned_minilm_model" # Keep the existing BERT model
 
 # --- Similarity Thresholds and Window Sizes ---
 MIN_SIMILARITY_THRESHOLD = 0.25 # Minimum similarity for sections to be considered
@@ -542,7 +542,7 @@ def main_round1b_processing(input_dir, output_dir, input_json_path):
         "subsection_analysis": all_subsection_analysis
     }
 
-    output_filename = f"round1b_output_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+    output_filename = "challenge1b_output.json"
     output_path = os.path.join(output_dir, output_filename)
 
     with open(output_path, 'w', encoding='utf-8') as f:
@@ -552,9 +552,9 @@ def main_round1b_processing(input_dir, output_dir, input_json_path):
 
 if __name__ == '__main__':
     os.makedirs(INPUT_DIR, exist_ok=True)
-    
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     # Define the expected input JSON file name and path
-    INPUT_JSON_FILEPATH = "input.json"
+    INPUT_JSON_FILEPATH = os.path.join(INPUT_DIR, "challenge1b_input.json")
     
     # Use the input JSON file directly from INPUT_DIR
     
